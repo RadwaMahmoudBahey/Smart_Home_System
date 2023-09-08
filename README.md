@@ -1,4 +1,4 @@
-[ITI_PROJECT.pdf](https://github.com/RadwaMahmoudBahey/Smart_Home_System/files/12562155/ITI_PROJECT.pdf)I'd like to share my graduation project for ITI (Information Technology Institute) , Smart home System
+I'd like to share my graduation project for ITI (Information Technology Institute) , Smart home System
 
 Implemented using two AVR ECUs : 
 
