@@ -2,9 +2,9 @@ I'd like to share my graduation project for ITI (Information Technology Institut
 
 Implemented using two AVR ECUs : 
 
->>the First one is designed to interact with the user (HMI_ECU),
+  The First one is designed to interact with the user (HMI_ECU),
 
->>the Second one(Control_ECU) is specified for receiving signals from sensors and controlling actuators.
+  The Second one(Control_ECU) is specified for receiving signals from sensors and controlling actuators.
 
 --The system asks the user to enter password and renter it again in case it's the first time setting it up , it also shows 2 options for : 
 
